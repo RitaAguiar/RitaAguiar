@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Architect & Developer at @Reopecom
+I'm an Architect & Developer at @Reopecom__
 I'm helping to automate the AEC industry 💻
 
 <!--
