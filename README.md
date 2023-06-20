@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Architect & Developer at @Reopecom
+I'm a Software Developer at @Tvinn-Solutions
 
 I'm helping to automate the AEC industry 💻
 
