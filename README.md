@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer at @Tvinn-Solutions
+I'm a Software Developer at Sogelink Focus Software
 
 I'm helping to automate the AEC industry 💻
 
